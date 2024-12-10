@@ -1,2 +1,2 @@
-# prova-sello-word
+# prova-hello-word
 My first repository in GitHub
